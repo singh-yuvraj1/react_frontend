@@ -3,7 +3,7 @@ import React from 'react'
 const Header = () => {
   return (
 
-        <div className ="flex justify-around items-center">
+        <div className ="flex justify-around items-center mt-5  ">
             <button className='bg-black text-white h-10 w-40 rounded-2xl ' >Target Audience</button>
             <h1>Digital Banking Platform</h1>
         </div>
